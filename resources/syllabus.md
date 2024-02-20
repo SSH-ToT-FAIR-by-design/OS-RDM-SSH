@@ -37,8 +37,10 @@ template: signposting.html
 
 - put available from date if it is self-paced
 
-## Location
 
+## Location (Online!)
+
+The training will be held online via Zoom.
 - where it will be available
 - physical location
 - URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
