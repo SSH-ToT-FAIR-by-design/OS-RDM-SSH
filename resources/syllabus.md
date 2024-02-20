@@ -29,34 +29,74 @@ template: signposting.html
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training  - Version 3
+# Training of Trainers: Social Sciences and Humanities
 
-# Type (Course/Workshop/Webinar)
+# Course: Open Science and Research Data Management
 
 ## Date/Time: when it will be offered
 
-- put available from date if it is self-paced
-Let's see if it works now
+- Course will run from February 28th to March 5th. 
+- 2 Hour Q&A Slot on Monday March 4th. 
 
-## Location (Online!)
+## Location (Online)
 
 The training will be held online via Zoom.
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- Zoom links to be provided to registered participants closer to the date.
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+There are three modules in this course.The modules follow the research lifecycle. This means that you will learn about Open Science concepts and practices, Research Data Management and  FAIR principles in light of Social Sciences and Humanities specificities.
 
+The three modules consist of an introduction to the Open Science landscape in the SSH, a dive into the world of data, and a discussion about dissemination.
+
+The whole training has a workload of about 15 hours. There will be three webinars followed by some practical activities. Once a week you will be able to meet one of the trainers and ask questions.
+<center>![](attachments/Pasted%20image%2020240220160637.png)</center>
+## Module 1
+
+The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.
+
+- Describe the current policy landscape that shapes knowledge production and the way it affects the SSH Research Framework
+- Identify SSH practices in Open Science
+- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
+- Describe  what the research data management requirements and standards are
+## Module 2
+
+<p align="justify">The second module focuses on what we call active research. It presents elements that correspond to different stages of the research: data collection, data processing, preservation and documentation.  In this section, RDM and more technical aspects related to the FAIR Principles are detailed. The learning outcomes are the following:</p>
+
+- Identify the kind of information is important for OS practices and FAIRness when collecting/producing data (instruments, software)
+- Store data
+- Handle sensitive data
+- Apply open licenses and Data Usage rights
+- Identify the different types of metadata
+- Document data: describe data and methods
+## Module 3
+
+<p align="justify">The third module focuses on the evaluation of the research outcomes and their posterior preservation and dissemination. The module also tackles access and reuse of research outcomes. This item is actually part of the first step of the research lifecycle. It represents the beginning of a new cycle that draws from research outcomes properly preserved and disseminated. The learning outcomes of this module are listed below.</p>
+- Assess the FAIRness of data and other research outputs
+- Draft a strategy for publishing research outputs
+- Link data and publication
+- Implement FAIR compliance strategies for monographs (how do you link data to the monograph)
+- Adopt OS-compliant publication practices (e.g., standard metadata, stable text formats, persistent identifiers, open licensing)
+- Identify(Find) and reuse existing data, codes, publications and any other kind of research outcome
+## Competences targeted
+
+SSH researchers should present the following competences and skills (based on Skills4EOSC Minimal Viable Skillset for researchers).
+
+- Knowledgeable of policies, opportunities and practices of OS in the SSH (e.g., open access, data storage and archival).
+- Ability to recognize SSH-specific Open Science principles and to identify practices relevant to them at every stage of the research workflow.
+- Knowledge of the research and the data life cycle
+- Ability to make OS-compliant choices to collect, annotate and document data and software, create metadata, use relevant taxonomies, and preserve data (use existing repositories)
+- Adequate capacity to implement discipline-specific FAIR principles.
+- Ability to assess FAIRness of existing resources
+- Writing a basic DMP to understand data management at the beginning of the project
+- Applying open publication practices, such as publishing preprints, publishing in open access journals and platforms, ensuring data and code are available in open repositories to the extent possible.
 ## Target audience: target audience description
 
 ## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
 
 ## Primary Language: English
 
-## Access Cost: N
+## Access Cost: N/A
 
 ## Prerequisites
 
@@ -72,41 +112,43 @@ The training will be held online via Zoom.
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+Open Science, Research Data Management, FAIR Principles, Social Sciences and Humanities (SSH), Dissemination
 
 ## Agenda: Training Schedule - Training Structure
 
-| Date/Time | Topic             |
-|-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| Date | Module | Recommended | Optional | Optional | Total |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 28th Feb. <br>Afternoon | Module 1 | 3-Hour webinar | Practical Activities | 1-Hour Q&A | 5 |
+| 28th Feb. <br>Afternoon | Module 2 | 3-Hour webinar | Practical Activities | 1-Hour Q&A | 5 |
+| 28th Feb. <br>Afternoon | Module 3 | 3-Hour webinar | Practical Activities | 1-Hour Q&A | 5 |
+
 
 ## Resources and Materials
 
-- location of available resources for the training
+- N/A
 
 ## Certification Information
 
-- if any
+- N/A
 
 ## Author(s)
 
-- List of people involved in preparing the training
+Fotis Mystakopoulos, Karla Avanco, Irakleitos, Arnaud Gingold, Carol Delmazo
 - format: Name Surname, comma separated
 
 # Trainer(s)
 
-- List of people involved in delivering the training
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- Fotis Mystakopoulos [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-9354-3754)
+- Karla Avanco  [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-8784-7754), ...
+- Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...****
+- Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
 
 ## Contact information
 
-- how to reach out to training organizers
+Please email us at:
+
+fotis.mystakopoulos@operas-eu.org
+karla.avanco@openedition.org
 
 ## License
 
