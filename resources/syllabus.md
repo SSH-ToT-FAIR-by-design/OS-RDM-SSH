@@ -29,14 +29,14 @@ template: signposting.html
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training  - Version 2
+# Title of training  - Version 3
 
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time: when it will be offered
 
 - put available from date if it is self-paced
-
+Let's see if it works now
 
 ## Location (Online!)
 
