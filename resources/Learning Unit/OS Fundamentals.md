@@ -1,10 +1,19 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
-author: "Skills4EOSC T2.3"
-tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - FAIR Learning Unit Template
+title: OS Fundamentals
+author:
+  - Fotis Mystakopoulos
+  - Karla Avanco
+tags:
+  - FAIR-by-Design
+  - Objects
+  - FAIR
+  - Learning
+  - Unit
+  - Template
+  - SSH
+  - Data-Management
+  - Research-Materials
+expertiseLevel: Intermediate
 ---
 
 # Learning Unit Template
