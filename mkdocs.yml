@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Training in Social Sciences and Humanities: Research Data Management and Open Science
+site_name: "FAIR-by-Design Training in Social Sciences and Humanities: Research Data Management and Open Science"
 docs_dir: resources
 theme:
   name: material
