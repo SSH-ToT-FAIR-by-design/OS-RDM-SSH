@@ -31,7 +31,7 @@ template: signposting.html
 
 # Training of Trainers: Social Sciences and Humanities
 
-# Course: Open Science and Research Data Management
+# Course: The Open Science and Research Data Management
 
 ## Date/Time: when it will be offered
 
