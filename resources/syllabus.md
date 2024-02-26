@@ -137,10 +137,7 @@ Fotis Mystakopoulos, Karla Avanco, Irakleitos, Arnaud Gingold, Carol Delmazo
 
 # Trainer(s)
 
-- Fotis Mystakopoulos [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-9354-3754)
-- Karla Avanco  [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-8784-7754), ...
-- Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...****
-- Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- Fotis Mystakopoulos [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-9354-3754), Karla Avanco  [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-8784-7754), Irakleitos Souyioultzoglou [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-9875-7196), Arnaud Gingold [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Carol Delmazo [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-8284-9117)
 
 ## Contact information
 
@@ -155,7 +152,7 @@ karla.avanco@openedition.org
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+To be added when material will be uploaded to Zenodo.
 
 ## Accessibility Mission
 
