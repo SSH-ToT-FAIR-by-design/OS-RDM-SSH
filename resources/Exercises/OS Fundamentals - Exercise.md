@@ -1,5 +1,5 @@
 ---
-title: OS Fundamentals
+title: OS Fundamentals - Exercise
 author:
   - Fotis Mystakopoulos
   - Karla Avanco
