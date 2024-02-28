@@ -96,6 +96,5 @@ Finally, the ANR encourages pre-prints to be deposited in open platforms or open
 
 ## Suggested Reading
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+- Open Science outlook 1: status and trends around the world. https://doi.org/10.54677/GIIC6829
 
