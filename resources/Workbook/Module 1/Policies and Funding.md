@@ -96,5 +96,7 @@ Finally, the ANR encourages pre-prints to be deposited in open platforms or open
 
 ## Suggested Reading
 
-- Open Science outlook 1: status and trends around the world. https://doi.org/10.54677/GIIC6829
+- Open Science outlook 1: status and trends around the world.[ https://doi.org/10.54677/GIIC6829]()https://doi.org/10.54677/GIIC6829
+- 
+-
 
