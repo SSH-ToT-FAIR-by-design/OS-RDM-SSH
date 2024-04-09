@@ -1,5 +1,5 @@
 ---
-title: Doing research in the SSH OS Landscape
+title: Introduction
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
