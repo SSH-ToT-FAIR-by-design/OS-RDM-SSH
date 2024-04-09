@@ -3,15 +3,10 @@ title: "Defining Open Science: concepts and pillars (or dimensions)"
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
-  - Learning
-  - Materials
-  - FAIR
-  - Learning
-  - Objects
-  - FAIR
-  - Learning
-  - Unit
-  - Template
+  - Definition
+  - Open-science
+  - Pillars
+  - SSH
 ---
 
 
