@@ -56,7 +56,4 @@ Search for relevant resources available in English or other if you know the lang
 
 Connect the material with related pedagogical support and exercises if it is the case. - Connect if there are other material - talks about OS Pillars  
 
-### Keywords / Tags
-
-Keywords and Tags can help to categorize the content.
 
