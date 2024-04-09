@@ -1,5 +1,5 @@
 ---
-title: Policies and Funding - Exercise
+title: "Defining Open Science: concepts and pillars (or dimensions)"
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
