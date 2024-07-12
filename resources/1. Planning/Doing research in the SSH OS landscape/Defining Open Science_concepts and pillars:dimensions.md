@@ -89,7 +89,7 @@ In the first section, we've outlined a working definition of Open Science to pro
 
 ### References
 
-Ayris, P., Lopez de San Román, A., Maes, K., & Labastida, I. (2018). Open science and its role in universities: A roadmap for cultural change. Leuven: LERU Office. Available at: https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf (Accessed 12 July 2024)
+Ayris, P., Lopez de San Román, A., Maes, K., & Labastida, I. (2018). Open science and its role in universities: A roadmap for cultural change. Leuven: LERU Office. Available at: [https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf ]()https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf (Accessed 12 July 2024)
 
 Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496
 

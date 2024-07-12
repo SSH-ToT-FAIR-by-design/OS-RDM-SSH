@@ -31,15 +31,21 @@ In this sub-module we will discuss the current policy landscape through:
 
 EU Initiatives and OS policies: 
 
-- <p align="justify">Horizon Europe OS Policy: Projects and research funded by Horizon Europe (and its associated programmes) should demonstrate OS practices alongside their research practices. The most common elements promoted by the Horizon OS policy are Open Access to scientific publications and the management of research data according to the FAIR principles. For example, all projects are required to produce a data management plan and demonstrate how they will manage their data and which data they plan to make open.</p>
+- <p align="justify">[Horizon Europe OS Policy](https://rea.ec.europa.eu/open-science_en): Projects and research funded by Horizon Europe (and its associated programmes) should demonstrate OS practices alongside their research practices. The most common elements promoted by the Horizon OS policy are Open Access to scientific publications and the management of research data according to the FAIR principles. For example, all projects are required to produce a data management plan and demonstrate how they will manage their data and which data they plan to make open.</p>
     
 - <p align="justify">European Council of the European Union: The EU Council produced two conclusions that are highly pertinent to the Open Science movement. The Council Conclusion on High-Quality, Open, Trustworthy and Equitable Scholarly Publishing and the Council Conclusion on Research Assessment and the Implementation of Open Science. Both have clear recommendations on how an organisation could enable and why the should prioritise open science practices.</p>
     
-- Plan S 
+- <p align="justify">[Plan S](https://www.coalition-s.org/why-plan-s/): Plan S, championed by cOAlition S, is an initiative to ensure that scientific publications funded by public grants are made fully and immediately open access. The plan aims to eliminate publication paywalls, enabling universal access to research findings. This is vital for the progress and integrity of science, as open access facilitates the scrutiny, replication, and building upon of research. Plan S mandates that from 2021, all scholarly publications resulting from publicly funded research must be available in compliant open access journals or platforms.
+
+For more details, visit the [Plan S page](https://www.coalition-s.org/why-plan-s/). </p>
+
     
-- Helsinki Initiative 
+- <p align="justify">[Helsinki Initiative](https://www.helsinki-initiative.org/): The Helsinki Initiative on Multilingualism in Scholarly Communication champions the use of multiple languages in academic research to enhance societal impact and knowledge exchange. Launched by the Federation of Finnish Learned Societies and partners, it seeks to protect national research infrastructures, support locally relevant studies, and promote language diversity in research assessment. The initiative urges policymakers, institutions, and funders to ensure equitable access to knowledge in various languages and to value high-quality research regardless of publication language.</p>
+
     
-- Coalition for Advancing Research Assessment (CoARA)
+- <p align="justify">[Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/): The Coalition for Advancing Research Assessment (CoARA) is an international initiative focused on reforming the evaluation of research, researchers, and research organisations. CoARA promotes a framework that recognises diverse outputs, practices, and activities, prioritising qualitative judgement and responsible use of quantitative indicators. The initiative is based on ten commitments outlined in the Agreement on Reforming Research Assessment, which aims to enhance the quality and impact of research by fostering a more inclusive and comprehensive assessment system.</p>
+
+
     
 
 International OS Policies
