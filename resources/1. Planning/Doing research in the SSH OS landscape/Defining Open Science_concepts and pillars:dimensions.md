@@ -22,6 +22,9 @@ The first module of the training is an introduction of the Open Science environm
     
 
   
+Learning resources
+
+[Presentation slides](https://docs.google.com/presentation/d/1rMHm24oPOPJKIkwUnnd9R_tLqQje4xzy/edit?usp=sharing&ouid=102604071504748959042&rtpof=true&sd=true)
 
 ### Open Science
 
