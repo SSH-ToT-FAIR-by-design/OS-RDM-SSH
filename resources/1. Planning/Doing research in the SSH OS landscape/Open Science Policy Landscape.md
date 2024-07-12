@@ -65,9 +65,11 @@ Initiatives such as the Declaration on Research Assessment (DORA) and the Coalit
 
 Example: 
 
-Evolution of Open Science across EU’s FPs
+<p align="justify">The development of Open Science in the Framework Programmes (FPs) is highlighted in Horizon Europe, where the evaluation criteria for research proposals now take into account the quality and appropriateness of Open Science practices. This is assessed within the project methodology, specifically within the excellence award criterion, providing a strong incentive for applicants and beneficiaries to adopt Open Science practices. 
 
-Horizon Open Science and Evaluation
+In Horizon funding, Open Science will be assessed on the basis of several factors. The FAIR principles are central, emphasising that data should be "as open as possible, closed as necessary". Proposals will be assessed on how they embed open science practices, including open sharing of results and alignment with the FAIR principles. The Open Science capacity of individual researchers and consortia will also be assessed, evaluating their ability to support Open Science practices.
+
+Other aspects related to open science practices are the early and open sharing of research, the existence of a robust research data management plan, reproducibility of research, open access to research results, open peer review and the involvement of citizen science. This comprehensive approach ensures that Open Science practices are thoroughly integrated and evaluated in Horizon Europe funding.</p>
 
 
 
