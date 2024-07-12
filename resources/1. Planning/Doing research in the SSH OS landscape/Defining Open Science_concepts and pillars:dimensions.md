@@ -43,31 +43,9 @@ This framework will guide our perspective throughout the course. It is crucial t
 
 ### Definition
 
-For the definition we rely on two sources as they work complementary to each other:
+To achieve a common understanding of Open Science, we will focus on the definition of Open Science from the UNESCO Recommendation on Open Science (2022). The UNESCO definition (2022) encapsulates the philosophical underpinnings and motivations of Open Science, as well as the motivations and goals of what it hopes to achieve:
 
-- Definition of Open Science according to the [UNESCO Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771)
-    
-- Definition of Open Science according to the [Glossary of Framework for Open and Reproducible Research Training](https://forrt.org/glossary/open-science/) (FORRT).
-    
-
-The definition by UNESCO (2022) is broadermore broad., Itthat encapsulates the philosophical underpinnings and motivations of Open Science and the motivations as well as the aims of what it hopes to achieve:
-
-Open science is a set of principles and practices that aim to make scientific research from all fields accessible to everyone for the benefits of scientists and society as a whole.
-
-Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable.
-
-As defined by FORRT, the operationalisation of Open Science is achieved through its six major components: open data, open methodology, open source, open access, open peer review, and open educational resources. Each of these aspects plays a crucial role in the scientific process.
-
-- Open data is at the heart of this effort due to the importance of data in relation to research outcomes. Making data publicly available enables the reproducibility and the application of other methods forof replicating research findings. However, it is important to note that open data by themselves is insufficient.
-    
-- Open Methodology should accompany any efforts to share of sharing data openly. Raw data on its own cannot allow reusability by other researchers. Methodologies provide a map of how a research has been , conducted and thus providing further context on research data the acquisition of research data.
-    
-- Open -source typically denotes software that is freely accessible, modifiable, and distributable by anyone. This non-proprietary approach to software development fosters enhanced interoperability of resources, facilitating broader collaboration across various fields. Additionally, open -source software forms the backbone of open infrastructures, supporting their use and expansion.
-    
-- Open access to literature and open peer review processes democratise knowledge and maintain the rigour of scientific communication rigour, assuringmaking sure that insights and discoveries are available to all.
-    
-- Lastly, open educational resources promote lifelong learning and engagement with science, ensuring the public can benefit from and contribute to scientific knowledge.
-    
+Open science is a set of principles and practices that aim to make scientific research in all fields accessible to everyone, for the benefit of scientists and society as a whole. Open science is about ensuring not only that scientific knowledge is accessible, but also that the production of that knowledge itself is inclusive, equitable and sustainable.
 
 The UNESCO Recommendation on Open Science outlines a series of values and principles that encompass a variety of components within their scope (See Figure 1). The foundational values of open science are built on a comprehensive set of implications that span ethical, philosophical, economic, legal, political, social, and technological dimensions, as they relate to integrating science into society. Equally crucial are the guiding principles for open science which help establish a structure that provides the necessary conditions and practices to actualize itsthe aspirations of open science.
 
@@ -77,7 +55,7 @@ The UNESCO Recommendation on Open Science outlines a series of values and princi
 
 ![](https://lh7-us.googleusercontent.com/f11Jzf705OfsUj4oyQc08unGIjCR6EQM6QSBqk6IpQCLDH2s5o-y578-XP9Af_wmFSiKPziYwZ6fJT0-Pf6J9Vo26H4v9NGk25DbZMIxdtCjV0spN1NAIFvBi_rng_Z0OZbHp1C7kpN-_9TzMe5eOLk)
 
-Figure 1: UNESCO Recommendation on Open Science: Values & Principles
+Figure 1: UNESCO Recommendation on Open Science: Values & Principles. (Image Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:UNESCO_Recommendation_on_Open_Science_01.png) Licence: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
   
 ### Pillars  
@@ -118,12 +96,16 @@ Connect the training with other material produced by the project if relevant.
 
 ### References
 
-FOSTER Training Open Science: [Open Science Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN//01Introduction/) 
-FORRT: [Glossary - Open Science](https://forrt.org/glossary/open-science/) 
-LERU Roadmap: [Open Science and its role in universities: a roadmap for cultural change](https://www.leru.org/publications/open-science-and-its-role-in-universities-a-roadmap-for-cultural-change)
-UNESCO: [Introduction to Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771) 
+Ayris, P., Lopez de San Román, A., Maes, K., & Labastida, I. (2018). Open science and its role in universities: A roadmap for cultural change. Leuven: LERU Office. Available at: https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf (Accessed 12 July 2024)
+
+Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496
+
+UNESCO (United Nations Educational Scientific and Cultural Organization). (2021). Recommendation on open science. UNESCO: Available at: [https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en) (Accessed 12 July 2024).
 
 ### Further reading
+
+FORRT: [Glossary - Open Science](https://forrt.org/glossary/open-science/) 
+UNESCO: [Introduction to Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771) 
 
 ### Licensing
 
