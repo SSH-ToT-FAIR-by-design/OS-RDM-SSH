@@ -32,7 +32,7 @@ In this sub-module we will discuss:
 
 Open Science is a complex concept that can be approached from various perspectives. In this introductory module, we focus on key elements to establish a foundational understanding of Open Science. These elements include:
 
-- Defining Open Science: We will explore various definitions and examine the differences among them to form a comprehensive snapshot.
+- Defining Open Science: We will explore the various aspects of the open science definition.
     
 - Values and Principles: We will discuss the core values and principles that underpin Open Science and consider how their adoption may impact a researcher's approach.
     
@@ -85,13 +85,6 @@ These different dimensions underscore the transformative impact of the Open Scie
 
 In the first section, we've outlined a working definition of Open Science to provide a common basis for understanding this crucial concept. As future trainers, you'll have the flexibility to adapt this definition to better suit the specific needs and backgrounds of your future audiences.
 
-### Related Material (TOT)
-
-Connect the material with related pedagogical support and exercises if it is the case.
-
-### Related Skills4EOSC Training Materials
-
-Connect the training with other material produced by the project if relevant.
 
 
 ### References
