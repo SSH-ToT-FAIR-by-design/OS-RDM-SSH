@@ -1,17 +1,8 @@
 ---
 title: Open Science Policy Landscape
-author: Skills4EOSC T2.3
+author: Skills4EOSC T5.2
 tags:
   - FAIR-by-Design
-  - Learning
-  - Materials
-  - FAIR
-  - Learning
-  - Objects
-  - FAIR
-  - Learning
-  - Unit
-  - Template
 ---
 
 # Content

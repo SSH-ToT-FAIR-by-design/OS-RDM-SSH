@@ -1,6 +1,6 @@
 ---
 title: "Defining Open Science: concepts and pillars (or dimensions)"
-author: Skills4EOSC T2.3
+author: Skills4EOSC T5.2
 tags:
   - FAIR-by-Design
   - Definition
@@ -8,31 +8,29 @@ tags:
   - Pillars
   - SSH
 ---
-
-
 ## Description
 
-The first module of the training is an introduction of the Open Science environment to SSH researchers. In this sub-module we will discuss:
+The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.
+
+- Describe the current policy landscape that shapes knowledge production and the way it affects the SSH Research Framework
+- Identify SSH practices in Open Science
+- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
+- Describe  what the research data management requirements and standards are
+
+In this sub-module we will discuss:
 
 - What is Open Science
 
 	- Definition
-	    
-	- Pillars
-    
+	- Pillars   
 
-  
-Learning resources
+## Learning resources
 
-[Presentation slides](https://docs.google.com/presentation/d/1rMHm24oPOPJKIkwUnnd9R_tLqQje4xzy/edit?usp=sharing&ouid=102604071504748959042&rtpof=true&sd=true)
+- [Presentation slides](https://docs.google.com/presentation/d/1NcyRkUjVdxTQ9gp0YvvUseGT_fMaOaLB/edit?usp=sharing&ouid=102604071504748959042&rtpof=true&sd=true)
 
 ### Open Science
 
-  
-
 Open Science is a complex concept that can be approached from various perspectives. In this introductory module, we focus on key elements to establish a foundational understanding of Open Science. These elements include:
-
-  
 
 - Defining Open Science: We will explore various definitions and examine the differences among them to form a comprehensive snapshot.
     
@@ -40,8 +38,6 @@ Open Science is a complex concept that can be approached from various perspectiv
     
 - Pillars of Open Science: We will identify the various facets of Open Science and understand how they integrate to advance a cohesive movement.
     
-
-  
 
 This framework will guide our perspective throughout the course. It is crucial to recognize that Open Science extends beyond the scope of this module. Participants are encouraged to deepen their understanding of Open Science through ongoing learning and exploration.
 
@@ -85,33 +81,31 @@ Figure 1: UNESCO Recommendation on Open Science: Values & Principles
 
   
 ### Pillars  
-  
 
 To enhance our definition of Open Science, it is beneficial to examine the foundational pillars of Open Science as detailed in the advisory paper '[Open Science and its role in universities: a roadmap for cultural change,' published by the League of European Research Universities](https://www.leru.org/publications/open-science-and-its-role-in-universities-a-roadmap-for-cultural-change) (LERU). This document offers critical insights into the integral components that support the Open Science framework.
 
 In this roadmap, the authors outline 8 dimensions:
 
 -   The future of Scholarly publishing
-    
+
 -   FAIR Data
-    
+
 -   The European Open Science Cloud (EOSC)
-    
+
 -   Education and skills
-    
+
 -   Rewards and incentives
-    
+
 -   Next-generation metrics
-    
+
 -   Research Integrity
-    
+
 -   Citizen Science
-    
 
-These various dimensions underscore the transformative impact of the Open Science movement on research culture and highlight its ambition to foster engagement with societal stakeholders.
 
-In the initial section, we've outlined a working definition of Open Science to establish a shared baseline for comprehension of this crucial concept. As future trainers, you'll have the flexibility to tailor this definition to better suit the specific needs and backgrounds of your prospective audiences.
+These different dimensions underscore the transformative impact of the Open Science movement on research culture and highlight its ambition to foster engagement with societal stakeholders.
 
+In the first section, we've outlined a working definition of Open Science to provide a common basis for understanding this crucial concept. As future trainers, you'll have the flexibility to adapt this definition to better suit the specific needs and backgrounds of your future audiences.
 
 ### Related Material (TOT)
 
@@ -130,14 +124,6 @@ LERU Roadmap: [Open Science and its role in universities: a roadmap for cultural
 UNESCO: [Introduction to Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771) 
 
 ### Further reading
-
-[From DIAMAS] Search for relevant resources available in English or other if you know the language
-
-### Glossary
-
-Any terms (can include, but not limited to, keywords) that may require explanation as the reader may not be familiar with them, that will be part of the glossary list.
-
-Please either check that the terms are in the glossary, making suggested edits if required, or add the terms and an explanation (with reference to an external source, if required) as a suggestion:
 
 ### Licensing
 
