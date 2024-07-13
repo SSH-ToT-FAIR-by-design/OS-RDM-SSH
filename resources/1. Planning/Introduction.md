@@ -1,6 +1,6 @@
 ---
 title: Introduction
-author: Skills4EOSC T2.3
+author: Skills4EOSC T5.2
 tags:
   - FAIR-by-Design
   - Learning
@@ -19,7 +19,7 @@ tags:
 ### Description
 
 **The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.**
-## Learning Objectives
+## Learning Outcomes
 
 
 - Describe the current policy landscape that shapes knowledge production and the way it affects the SSH Research Framework

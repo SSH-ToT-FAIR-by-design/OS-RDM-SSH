@@ -22,7 +22,7 @@ The first module of the training is an introduction of the Open Science environm
 - Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
 - Describe  what the research data management requirements and standards are
 
-In this sub-module we will discuss data with a particular focus on SSH:
+In this learning unit we will discuss data with a particular focus on SSH:
 
 - Data in the SSH
 - Data in the Humanities
@@ -54,9 +54,13 @@ As such, we arrive at certain definitions, if that is possible:
 
 The word "data" evolves to become, perhaps, research material. Highlighting the challenges of interpreting what is data in the SSH reveals several key issues. **Subjectivity** plays an important role, as there is no clear definition of data, leading to different types of resources being interpreted as data. This ambiguity is compounded by **contextualisation**, where the definition of data depends on various factors, including the perspective of the researcher and the specific context of the study. In addition, the **multiplicity of data types and formats** adds to the complexity, as data in SSH can encompass a wide range of formats and types, making standardisation and consistent interpretation difficult.
 
-### SSH Open Science Practices
+### Data in the Humanities
 
-Some of these practices aim to improve the quality and impact of research in the social sciences and humanities. Not all of these practices are currently used by SSH researchers. The FAIR and CARE principles are crucial for SSH and all disciplines. Bibliodiversity provides a platform for SSH researchers as it supports a diverse publication environment. And, of course, multilingualism is at the heart of citizen science and SSH research, given the local and regional context that these fields represent. 
+In the descriptions below, when we refer to humanities, it is also inclusive of the digital humanities as a practice. First and foremost, Edmond (2020) identified associated data in the humanities with a taxonomy.
+
+### Data in the Social Sciences
+
+
 
 ### References
 

@@ -17,7 +17,7 @@ The first module of the training is an introduction of the Open Science environm
 - Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
 - Describe  what the research data management requirements and standards are
 
-In this sub-module we will discuss:
+In this learning unit we will discuss:
 
 - What is Open Science
 
