@@ -113,9 +113,5 @@ UNESCO (United Nations Educational Scientific and Cultural Organization). (2021)
 
 ### Further reading
 
-FORRT: [Glossary - Open Science](https://forrt.org/glossary/open-science/) 
-UNESCO: [Introduction to Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771) 
-
-### Licensing
-
-Ensure that your article can be reused under a CC BY 4.0 licence.
+- FORRT: [Glossary - Open Science](https://forrt.org/glossary/english/open_science/) 
+- UNESCO: [Introduction to Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000383771) 

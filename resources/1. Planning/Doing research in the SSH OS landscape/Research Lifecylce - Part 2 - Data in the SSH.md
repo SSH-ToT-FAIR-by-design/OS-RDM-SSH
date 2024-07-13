@@ -22,22 +22,37 @@ The first module of the training is an introduction of the Open Science environm
 - Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
 - Describe  what the research data management requirements and standards are
 
-In this sub-module we will discuss:
+In this sub-module we will discuss data with a particular focus on SSH:
 
-- Open Science practices
-
-- OS practices commonly adopted by the SSH
+- Data in the SSH
+- Data in the Humanities
+- Data in Social Sciences
 
 ## Learning resources
 
-- [Presentation slides](https://docs.google.com/presentation/d/1_vVTO-kKu6fbE1Kc661qu6fcjk6XNRAR/edit?usp=sharing&ouid=102604071504748959042&rtpof=true&sd=true)
-## Open Science Practices
+- [Presentation slides](https://docs.google.com/presentation/d/12pZkgoUSe-WLyUflf2CT-FMHrMY8hIwp/edit?usp=sharing&ouid=102604071504748959042&rtpof=true&sd=true)
 
-We have identified some of the best-known OS practices, which include a set of principles and methods aimed at improving transparency, accessibility and collaboration in research. 
-Pre-registration and pre-printing are highlighted as promoting transparency, reducing bias, rapid dissemination, access, feedback and visibility. 
+## Data in the SSH
 
-The FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, Ethics) principles are well known for their focus on data management and ethical considerations. Bibliodiversity as a practice emphasises cultural and linguistic diversity and diverse publishing models. Data papers emphasise citation, discoverability and re-usability. 
-Citizen science encourages public participation and engagement, fostering collaboration and innovation. Last but not least, multilingualism promotes inclusivity, cultural sensitivity and broader audience reach. 
+Data is a multidimensional concept that can be interpreted in several ways (Giglia, 2021a, 2021b):
+
+First, data as a process: it is a dynamic output that is generated, processed, refined and used in an ongoing cycle that spans the entire research life cycle. This interpretation emphasises the continuous nature of data, highlighting its evolution and the transformative processes it undergoes.
+
+Second, data as a record obtained through a method: in the social sciences and humanities (SSH), data represent information obtained through systematic observation, measurement, and experimental procedures, such as surveys, interviews, or ethnographic studies. This perspective emphasises the importance of methodological rigour in the collection of both qualitative and quantitative data.
+
+Third, data as anything formalised through language: language acts as a 'data carrier', containing rich information about human history, culture and society. Language records also document the evolution of language, semantics and usage patterns over time, providing valuable insights into linguistic and cultural development.
+
+Finally, data in the form of books, corpora and codices: these resources serve as repositories of information, providing structured and/or unstructured data that can be analysed for various purposes. This interpretation recognises the role of traditional and digital texts as important sources of knowledge and data for analysis. 
+
+As such, we arrive at certain definitions, if that is possible:
+
+**Humanities:**
+> “We could then define data in the humanities broadly as all materials and assets scholars collect, generate, and use during all stages of the research cycle” (ALLEA Report, 2020 – Sustainable and FAIR data sharing in the humanities).
+
+**Social Sciences:**
+> In the social sciences, "data" refers to quantitative or qualitative information collected through observation, measurement, or inquiry that is used to understand, interpret, and analyze human behavior, social structures, and societal trends.
+
+The word "data" evolves to become, perhaps, research material. Highlighting the challenges of interpreting what is data in the SSH reveals several key issues. **Subjectivity** plays an important role, as there is no clear definition of data, leading to different types of resources being interpreted as data. This ambiguity is compounded by **contextualisation**, where the definition of data depends on various factors, including the perspective of the researcher and the specific context of the study. In addition, the **multiplicity of data types and formats** adds to the complexity, as data in SSH can encompass a wide range of formats and types, making standardisation and consistent interpretation difficult.
 
 ### SSH Open Science Practices
 
@@ -45,14 +60,22 @@ Some of these practices aim to improve the quality and impact of research in the
 
 ### References
 
-For in-text references (or actual source acknowledgement if an article is fully/mainly retrieved from an external resource - please note the copyright holder and terms of reuse - if we can’t make the article CC BY, then don’t use the source!). 
+Giglia, E. (2021, January 28). CO-OPERAS: FAIR data in the SSH. Zenodo. [https://doi.org/10.5281/zenodo.4475487](https://doi.org/10.5281/zenodo.4475487)  
 
+Giglia, E. (2021, September 15). FAIR data in the Humanities. Zenodo. [https://doi.org/10.5281/zenodo.5510388](https://doi.org/10.5281/zenodo.5510388)
+
+Harrower, N., Maryl, M., Biro, T., Immenhauser, B. & ALLEA Working Group E-Humanities. (2020, February 18). Sustainable and FAIR Data Sharing in the Humanities: Recommendations of the ALLEA Working Group E-Humanities. Digital Repository of Ireland. [https://doi.org/10.7486/DRI.tq582c863](https://doi.org/10.7486/DRI.tq582c863)
   
 ### Further reading
 
-Search for relevant resources available in English or other if you know the language
+Arnold, M., Valencia, O., & Arènes, C. (2022, May 9). Humanities and FAIR data. Zenodo. [https://doi.org/10.5281/zenodo.6531506](https://doi.org/10.5281/zenodo.6531506)
 
-### Related Skills4EOSC Training Materials (Teachers/Learners)
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from [https://dmeg.cessda.eu/](https://dmeg.cessda.eu/) - CC BY-SA 4.0
 
-Connect the material with related pedagogical support and exercises if it is the case. - Connect if there are other material - talks about OS Pillars  
+Edmond, J. (Ed.) (2020). Digital Technology and the Practices of Humanities Research. Open Book Publishers.
+
+Jeng, W., He, D., & Oh, J. S. (2016). Toward a conceptual framework for data sharing practices in social sciences: A profile approach. Proceedings of the Association for Information Science and Technology, 53(1), 1-10. [https://doi.org/10.1002/pra2.2016.14505301037](https://doi.org/10.1002/pra2.2016.14505301037)
+
+Whyte, A., Green, D., Avanço, K., Di Giorgio, S., Gingold, A., Horton, L., Koteska, B., Kyprianou, K., Prnjat, O., Rauste, P., Schirru, L., Sowinski, C., Torres Ramos, G., van Leersum, N., Sharma, C., Méndez, E., & Lazzeri, E. (2023). D2.1 Catalogue of Open Science Career Profiles - Minimum Viable Skillsets (v1.2). Zenodo. [https://doi.org/10.5281/zenodo.8101903](https://doi.org/10.5281/zenodo.8101903)
+
 
