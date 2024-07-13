@@ -1,5 +1,5 @@
 ---
-title: "Open science practices: particularities and specificities of SSH"
+title: Research Lifecylce - Part 2 - Data in the SSH
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design

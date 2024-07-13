@@ -1,5 +1,5 @@
 ---
-title: "Open science practices: particularities and specificities of SSH"
+title: Research Lifecycle - Part 1 - Lifecycle and Data Management
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
@@ -47,6 +47,23 @@ Research data garners a lot of attention as it is one of the most crucial compon
 Image fromCioffi, M., Goldman, J., & Marchese, S. (2023). Harvard Biomedical Research Data Lifecycle (Version 5). Zenodo. [https://doi.org/10.5281/zenodo.8076168](https://doi.org/10.5281/zenodo.8076168)
 
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+### Open Science - Specificities of SSH
+
+In the realm of Social Sciences and Humanities (SSH), there is a significant diversity in what we perceive as data. This diversity extends to multilingualism, acknowledging the necessity to manage and interpret data in multiple languages. Bibliodiversity is also crucial, reflecting the importance of varied scholarly publications beyond traditional journal articles, such as monographs and edited collections. Additionally, non-traditional research outputs play a vital role in SSH. Dissemination of results and scholarly communication in SSH extends beyond academic circles, placing a strong emphasis on giving back to society. This involves engaging with a broader community and policymakers to ensure the societal impact and relevance of the research conducted within SSH.
+
+### Managing Research Lifecycle in SSH
+
+Open Access Books
+
+The lifecycle paradigm can be adapted to specific activities of the research lifecycle to help visualise the steps of the process on how to best manage and produce outputs. One of the outputs that are very important to SSH researchers are monographs. [OAPEN has produced guidance](https://www.oabooks-toolkit.org/) on how to fully prepare, produce and share a book from writing the manuscript to making it reusable.
+
+FAIR data in the Humanities
+
+Lifecycle frameworks could be applied not only for a type of research output, but also in different domains. This example covers a FAIR data management lifecycle in the Humanities, pointing out the various necessities to considers depending on the stage of the lifecycle. 
+
+![](attachments/Screenshot%202024-01-22%20at%203.31.07%20PM.png)
+Image from: [https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/](https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/)  - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
 
 ### References
 
