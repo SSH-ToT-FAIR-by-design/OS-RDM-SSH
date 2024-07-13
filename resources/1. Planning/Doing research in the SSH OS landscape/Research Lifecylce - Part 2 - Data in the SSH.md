@@ -78,6 +78,8 @@ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen
 
 Edmond, J. (Ed.) (2020). Digital Technology and the Practices of Humanities Research. Open Book Publishers.
 
+[Gualandi, B.](https://www.emerald.com/insight/search?q=Bianca%20Gualandi "Bianca Gualandi"), [Pareschi, L.](https://www.emerald.com/insight/search?q=Luca%20Pareschi "Luca Pareschi") and [Peroni, S.](https://www.emerald.com/insight/search?q=Silvio%20Peroni "Silvio Peroni") (2023), "What do we mean by “data”? A proposed classification of data types in the arts and humanities", _[Journal of Documentation](https://www.emerald.com/insight/publication/issn/0022-0418)_, Vol. 79 No. 7, pp. 51-71. [https://doi.org/10.1108/JD-07-2022-0146](https://doi.org/10.1108/JD-07-2022-0146 "DOI: https://doi.org/10.1108/JD-07-2022-0146")
+
 Jeng, W., He, D., & Oh, J. S. (2016). Toward a conceptual framework for data sharing practices in social sciences: A profile approach. Proceedings of the Association for Information Science and Technology, 53(1), 1-10. [https://doi.org/10.1002/pra2.2016.14505301037](https://doi.org/10.1002/pra2.2016.14505301037)
 
 Whyte, A., Green, D., Avanço, K., Di Giorgio, S., Gingold, A., Horton, L., Koteska, B., Kyprianou, K., Prnjat, O., Rauste, P., Schirru, L., Sowinski, C., Torres Ramos, G., van Leersum, N., Sharma, C., Méndez, E., & Lazzeri, E. (2023). D2.1 Catalogue of Open Science Career Profiles - Minimum Viable Skillsets (v1.2). Zenodo. [https://doi.org/10.5281/zenodo.8101903](https://doi.org/10.5281/zenodo.8101903)
