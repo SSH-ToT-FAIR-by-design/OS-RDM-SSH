@@ -30,22 +30,38 @@ In this sub-module we will discuss:
 
 ### Open Science
 
-Open Science is a complex concept that can be approached from various perspectives. In this introductory module, we focus on key elements to establish a foundational understanding of Open Science. These elements include:
 
-- Defining Open Science: We will explore the various aspects of the open science definition.
-    
-- Values and Principles: We will discuss the core values and principles that underpin Open Science and consider how their adoption may impact a researcher's approach.
-    
-- Pillars of Open Science: We will identify the various facets of Open Science and understand how they integrate to advance a cohesive movement.
-    
+Open Science is a complex concept that can be approached from different perspectives. In this introductory module, we focus on key elements to establish a basic understanding of Open Science. These elements include
 
-This framework will guide our perspective throughout the course. It is crucial to recognize that Open Science extends beyond the scope of this module. Participants are encouraged to deepen their understanding of Open Science through ongoing learning and exploration.
+- Defining Open Science: We will explore different definitions and examine the differences between them to provide a comprehensive snapshot.
+- Values and Principles: We will discuss the core values and principles that underpin Open Science and consider how their adoption can influence a researcher's approach.
+- Pillars of Open Science: We will identify the different facets of Open Science and understand how they integrate to drive a cohesive movement.
+
+This framework will guide our perspective throughout the course. It is important to recognise that Open Science goes beyond the scope of this module. Participants are encouraged to deepen their understanding of Open Science through ongoing learning and exploration.
 
 ### Definition
 
-To achieve a common understanding of Open Science, we will focus on the definition of Open Science from the UNESCO Recommendation on Open Science (2022). The UNESCO definition (2022) encapsulates the philosophical underpinnings and motivations of Open Science, as well as the motivations and goals of what it hopes to achieve:
+For the definition we rely on two sources as they work complementary to each other:
 
-Open science is a set of principles and practices that aim to make scientific research in all fields accessible to everyone, for the benefit of scientists and society as a whole. Open science is about ensuring not only that scientific knowledge is accessible, but also that the production of that knowledge itself is inclusive, equitable and sustainable.
+- Definition of Open Science according to the UNESCO Recommendation on Open Science
+
+- Definition of Open Science according to the Glossary of Framework for Open and Reproducible Research Training (FORRT)
+
+The definition by UNESCO (2022) encapsulates the philosophical underpinnings and motivations of Open Science and the motivations as well as the aims of what it hopes to achieve:
+
+> Open science is a set of principles and practices that aim to make scientific research from all fields accessible to everyone for the benefits of scientists and society as a whole.
+> 
+> Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable.
+
+As defined by FORRT, the operationalisation of Open Science is achieved through its six major components: open data, open methodology, open source, open access, open peer review, and open educational resources. Each of these aspects plays a crucial role in the scientific process.
+
+| -   | Open data is at the heart of these efforts because of the importance of data in relation to research results. Making data publicly available enables reproducibility and the use of other methods to replicate research results. However, it is important to note that open data alone is not enough.                                                                                              |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -   | Open methodology should accompany all efforts to share data openly. Raw data alone cannot enable reuse by other researchers. Methodologies provide a map of how research has been conducted and thus provide further context to the research data.                                                                                                                                                 |
+| -   | Open source typically refers to software that can be freely accessed, modified and distributed by anyone. This non-proprietary approach to software development encourages greater interoperability of resources, facilitating wider collaboration across different disciplines. In addition, open source software forms the backbone of open infrastructures, supporting their use and expansion. |
+| -   | Open access to literature and open peer review processes democratise knowledge and maintain the rigour of scientific communication, ensuring that knowledge and discoveries are available to all.                                                                                                                                                                                                  |
+| -   | Finally, open educational resources promote lifelong learning and engagement with science, ensuring that the public can benefit from and contribute to scientific knowledge.                                                                                                                                                                                                                       |
+
 
 The UNESCO Recommendation on Open Science outlines a series of values and principles that encompass a variety of components within their scope (See Figure 1). The foundational values of open science are built on a comprehensive set of implications that span ethical, philosophical, economic, legal, political, social, and technological dimensions, as they relate to integrating science into society. Equally crucial are the guiding principles for open science which help establish a structure that provides the necessary conditions and practices to actualize itsthe aspirations of open science.
 
