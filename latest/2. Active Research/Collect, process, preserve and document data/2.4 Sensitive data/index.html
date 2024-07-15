@@ -513,26 +513,46 @@
     Learning resources
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#content" class="md-nav__link">
-    Content
-  </a>
-  
-    <nav class="md-nav" aria-label="Content">
+    <nav class="md-nav" aria-label="Learning resources">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#licensing" class="md-nav__link">
-    Licensing
+  <a href="#sensitive-data" class="md-nav__link">
+    Sensitive Data
+  </a>
+  
+    <nav class="md-nav" aria-label="Sensitive Data">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#challenges-of-working-with-sensitive-data" class="md-nav__link">
+    Challenges of working with Sensitive data
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#security" class="md-nav__link">
+    Security
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#related-material-tot-teachers" class="md-nav__link">
-    Related Material (TOT) (Teachers)
+  <a href="#anonymisation" class="md-nav__link">
+    Anonymisation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
   </a>
   
 </li>
@@ -547,13 +567,6 @@
           <li class="md-nav__item">
   <a href="#further-reading" class="md-nav__link">
     Further reading
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#related-skills4eosc-training-materials-teacherslearners" class="md-nav__link">
-    Related Skills4EOSC Training Materials (Teachers/Learners)
   </a>
   
 </li>
@@ -962,26 +975,46 @@
     Learning resources
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#content" class="md-nav__link">
-    Content
-  </a>
-  
-    <nav class="md-nav" aria-label="Content">
+    <nav class="md-nav" aria-label="Learning resources">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#licensing" class="md-nav__link">
-    Licensing
+  <a href="#sensitive-data" class="md-nav__link">
+    Sensitive Data
+  </a>
+  
+    <nav class="md-nav" aria-label="Sensitive Data">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#challenges-of-working-with-sensitive-data" class="md-nav__link">
+    Challenges of working with Sensitive data
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#security" class="md-nav__link">
+    Security
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#related-material-tot-teachers" class="md-nav__link">
-    Related Material (TOT) (Teachers)
+  <a href="#anonymisation" class="md-nav__link">
+    Anonymisation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
   </a>
   
 </li>
@@ -996,13 +1029,6 @@
           <li class="md-nav__item">
   <a href="#further-reading" class="md-nav__link">
     Further reading
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#related-skills4eosc-training-materials-teacherslearners" class="md-nav__link">
-    Related Skills4EOSC Training Materials (Teachers/Learners)
   </a>
   
 </li>
@@ -1084,6 +1110,8 @@
 
 
 
+  <h1>2.4 Sensitive data</h1>
+
 <h2 id="description">Description</h2>
 <p>The second module focuses on what we call active research. It presents elements that correspond to different stages of the research: data collection, data processing, preservation and documentation.  In this section, RDM and more technical aspects related to the FAIR Principles are detailed. The learning outcomes are the following:</p>
 <ol>
@@ -1094,39 +1122,63 @@
 <li>Apply open licences and data usage rights</li>
 <li>Document data</li>
 </ol>
-<p>In this learning unit we will discuss aspects of data storage:</p>
+<p>In this learning unit we will discuss aspects of how to deal with sensitive data:</p>
 <ul>
-<li>From Local to Cloud to Repositories</li>
-<li>Storage medium</li>
+<li>Security</li>
+<li>Anonymisation</li>
+<li>Tools</li>
 </ul>
 <h2 id="learning-resources">Learning resources</h2>
 <ul>
 <li><a href="https://docs.google.com/presentation/d/1toTqrQNvmlUYwKOhRcB4hE-obhWMQSlB/edit?usp=sharing&amp;ouid=102604071504748959042&amp;rtpof=true&amp;sd=true">Presentation slides</a></li>
 </ul>
-<h1 id="content">Content</h1>
+<h3 id="sensitive-data">Sensitive Data</h3>
+<p>Sensitive personal data, as defined by the European Commission, includes</p>
+<ol>
+<li>Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs.</li>
+<li>Information about trade union membership.</li>
+<li>Genetic data and biometric data processed solely for the purpose of identifying a person.</li>
+<li>Health-related data.</li>
+<li>Data concerning the sex life or sexual orientation of an individual.</li>
+</ol>
+<p>This type of data requires specific processing conditions to ensure protection and privacy.</p>
+<p>For example, consider a person named "Alex Johnson":</p>
 <ul>
-<li>
-<p>What is Open Science?</p>
+<li><strong>Direct identifiers:</strong> Name, pictures.</li>
+<li><strong>Indirect identifiers:</strong> Workplace and occupation, such as "Prime Minister of UK between 2000-2004."</li>
+</ul>
+<h4 id="challenges-of-working-with-sensitive-data">Challenges of working with Sensitive data</h4>
+<p>Working with sensitive data presents a number of challenges, particularly with respect to anonymisation and storage.</p>
+<p>Techniques such as pseudonymisation, data masking and generalisation are used to prevent identification while retaining the utility of the data. These methods alter data to protect identities but still allow meaningful secondary analysis.</p>
+<p>However, anonymisation techniques are not always foolproof against re-identification. Assessing the sufficiency of these techniques requires an assessment of the risk of re-identification.</p>
+<p>The storage of sensitive data requires strict security measures. Data should be encrypted, access controlled and regularly audited. Secure storage environments, both physical and digital, are essential to protect sensitive information.</p>
+<h3 id="security">Security</h3>
+<p>When it comes to security, we need to revisit the storage issue we saw in the previous section. Both <a href="https://ssh-tot-fair-by-design.github.io/OS-RDM-SSH/latest/2.%20Active%20Research/Collect%2C%20process%2C%20preserve%20and%20document%20data/2.3%20Data%20storage/#storage-solutions">storage solutions</a> and <a href="https://ssh-tot-fair-by-design.github.io/OS-RDM-SSH/latest/2.%20Active%20Research/Collect%2C%20process%2C%20preserve%20and%20document%20data/2.3%20Data%20storage/#storage-media">storage media</a> are crucial aspects to consider, but from a slightly different angle: </p>
+<blockquote>
 <ul>
-<li>
-<p>Definition </p>
-</li>
-<li>
-<p>Pillars</p>
-</li>
+<li>Choose the medium with the lowest risk of exposure.</li>
 </ul>
-</li>
+</blockquote>
+<p>Beyond this perspective, we must then consider the levels of access we can provide to sensitive/personal data when it comes to sharing with internal or external partners: </p>
+<p>**Types of access:</p>
+<ul>
+<li>Open data - fully anonymised and no personal data identifiable</li>
+<li>Restricted - still anonymised data</li>
+<li>Closed data - sensitive data that cannot be properly curated.</li>
 </ul>
-<h3 id="licensing">Licensing</h3>
-<p>Ensure that your article can be reused under a CC BY 4.0 licence.</p>
-<h3 id="related-material-tot-teachers">Related Material (TOT) (Teachers)</h3>
-<p>Connects to the material for pedagogical reasons - exercise</p>
+<p>Each option always depends on the specific research activity, the type of data we are working with and the composition of the project team, whether it is based in the same institution, in different institutions but in the same country, or if we then start to consider further regional aspects such as sharing data outside the EU and third countries. Different laws apply and specifics need to be carefully negotiated.</p>
+<p>Finally, it is important to include security measures such as password protection and encryption in your data management strategy for sensitive data: </p>
+<p>Password protection and encryption offer significant benefits in securing sensitive data. They prevent unauthorised access by ensuring that only those with the correct credentials can view or modify the data. Encryption converts data into an unreadable format that can only be deciphered with the correct decryption key. This layered protection helps maintain the confidentiality and integrity of sensitive information, providing a robust defence against data breaches and cyber threats.</p>
+<h3 id="anonymisation">Anonymisation</h3>
+<h3 id="tools">Tools</h3>
 <h3 id="references">References</h3>
-<p>For in-text references (or actual source acknowledgement if an article is fully/mainly retrieved from an external resource - please note the copyright holder and terms of reuse - if we can’t make the article CC BY, then don’t use the source!). </p>
+<p>Source: https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en#references</p>
+<p>Detailed guidance can be found in the <a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/anonymisation/anonymisation-step-by-step/">UK Data Service's anonymisation step-by-step guide</a>.</p>
 <h3 id="further-reading">Further reading</h3>
-<p>Search for relevant resources available in English or other if you know the language</p>
-<h3 id="related-skills4eosc-training-materials-teacherslearners">Related Skills4EOSC Training Materials (Teachers/Learners)</h3>
-<p>Connect the material with related pedagogical support and exercises if it is the case. - Connect if there are other material - talks about OS Pillars  </p>
+<p>•<a href="https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation">CESSDA Data Management Expert Guide</a> - Anonymisation</p>
+<p>•<a href="https://ico.org.uk/media/about-the-ico/documents/4018606/chapter-2-anonymisation-draft.pdf">Information Commission’s Officer – Chapter 2: How do we ensure anonymisation is effective?</a></p>
+<p>•<a href="https://amnesia.openaire.eu/features.html">AMNESIA Features</a> (a service by OpenAIRE)</p>
+<p>•<a href="https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en">EC –What personal data is considered sensitive?</a></p>
 
 
 
