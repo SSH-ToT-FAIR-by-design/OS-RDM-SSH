@@ -1,5 +1,5 @@
 ---
-title: SSH ToT RDM and Open Science
+title: Feedback form
 author:
   - Name of entity(ies)
   - authoring the resource
