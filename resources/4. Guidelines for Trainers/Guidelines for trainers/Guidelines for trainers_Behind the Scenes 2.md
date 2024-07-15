@@ -1,5 +1,5 @@
 ---
-title: Guidelines for trainers - Behind the Scenes
+title: Guidelines for trainers - Behind the Scenes 2
 author: Skills4EOSC T5.2
 tags:
   - FAIR-by-Design
