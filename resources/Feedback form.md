@@ -1,5 +1,5 @@
 ---
-title: 06 Feedback form
+title: Feedback form
 author:
   - Name of entity(ies)
   - authoring the resource
