@@ -1,5 +1,5 @@
 ---
-title: 6. Training material feedback form
+title: Training material feedback form
 author:
   - Name of entity(ies)
   - authoring the resource
