@@ -1,8 +1,6 @@
 ---
-title: 00. SSH ToT RDM and Open Science
-author:
-  - Name of entity(ies)
-  - authoring the resource
+title: SSH ToT RDM and Open Science
+author: Name of entity(ies),authoring the resource
 tags:
   - Keywords
   - Tags
