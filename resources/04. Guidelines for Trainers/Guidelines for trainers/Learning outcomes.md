@@ -1,5 +1,5 @@
 ---
-title: Guidelines for trainers - Behind the Scenes 2
+title: Learning outcomes
 author: Skills4EOSC T5.2
 tags:
   - FAIR-by-Design
