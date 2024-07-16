@@ -23,11 +23,6 @@ tags:
 
 
 - Describe the current policy landscape that shapes knowledge production and the way it affects the SSH Research Framework
-    
 - Identify SSH practices in Open Science
-    
 - Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
-    
 - Describe  what the research data management requirements and standards are
-    
-
