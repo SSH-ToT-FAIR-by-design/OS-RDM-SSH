@@ -21,7 +21,7 @@ tags:
 The second module focuses on what we call active research. It presents elements that correspond to different stages of the research: data collection, data processing, preservation and documentation.  In this section, RDM and more technical aspects related to the FAIR Principles are detailed. 
 ## Learning Outcomes
 
-The learning outcomes from the provided Module 2 presentation on 'Active research: process, collect, store and document data' are as follows
+The learning outcomes of Module 2 are: 
 
 1. Identify different types of metadata: Understand the different forms and functions of metadata.
 2. Identify open file formats: Recognise and use file formats that are open and widely available.
