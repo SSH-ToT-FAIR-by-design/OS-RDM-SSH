@@ -23,13 +23,12 @@ The second module focuses on what we call active research. It presents elements 
 
 The learning outcomes of Module 2 are: 
 
-1. Identify different types of metadata: Understand the different forms and functions of metadata.
-2. Identify open file formats: Recognise and use file formats that are open and widely available.
-3. Storing Data: Learn best practices for storing data securely and efficiently.
-4. Managing sensitive data: Properly manage sensitive data to ensure privacy and compliance.
-5. Apply open licences and data usage rights: Understand and apply open licences to data to facilitate sharing and reuse.
-6. Document data: Effectively describe data and methods to ensure clarity, reproducibility and understanding by others.
+- Identify different types of metadata
+- Identify different open file formats 
+- Apply best practices for storing data securely and efficiently 
+- Manage sensitive data to ensure privacy and compliance
+- Apply open licenses and Data Usage rights 
 
-These objectives aim to equip learners with the essential skills and knowledge to manage research data effectively within the OS (Open Science) landscape in the SSH (Social Sciences and Humanities).
+
 
 
