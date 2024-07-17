@@ -45,8 +45,7 @@ The main goal of this training is to introduce notions of Open Science (OS), Res
 - The training is constituted of four modules.Three of them follow the research life cycle. This means that you will learn about Open Science concepts and practices, Research Data Management and  FAIR principles in light of Social Sciences and Humanities specificities. The first module of the training is an introduction of the Open Science environment to SSH researchers.
 - The second module focuses on what we call active research. It presents elements related to different stages of active research, such as handling data, attributing licenses, etc.. 
 - The third module focuses on the preservation and dissemination of research outcomes. 
-
-The last module of the training presents guidelines for trainers, focusing on aspects of training design.
+- The last module of the training presents guidelines for trainers, focusing on aspects of training design.
 
 <center>![](attachments/Pasted%20image%2020240220160637.png)</center>
 
