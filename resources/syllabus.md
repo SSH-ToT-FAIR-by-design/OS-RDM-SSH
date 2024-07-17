@@ -52,29 +52,24 @@ The whole training has a workload of about 15 hours. There will be three webinar
 
 The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.
 
-- Describe the current policy landscape that shapes knowledge production and the way it affects the SSH Research Framework
+- Describe the current policy landscape that shapes knowledge production 
 - Identify SSH practices in Open Science
 - Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
 - Describe  what the research data management requirements and standards are
+
 ## Module 2
 
 <p align="justify">The second module focuses on what we call active research. It presents elements that correspond to different stages of the research: data collection, data processing, preservation and documentation.  In this section, RDM and more technical aspects related to the FAIR Principles are detailed. The learning outcomes are the following:</p>
 
-- Identify the kind of information is important for OS practices and FAIRness when collecting/producing data (instruments, software)
-- Store data
-- Handle sensitive data
-- Apply open licenses and Data Usage rights
-- Identify the different types of metadata
-- Document data: describe data and methods
+- Design an Open Science publishing strategy for the dissemination of research results
+- Identify the principles that link data and publications
+- Choose appropriate tools to assess the FAIRness of data and other research outputs
 ## Module 3
 
 <p align="justify">The third module focuses on the evaluation of the research outcomes and their posterior preservation and dissemination. The module also tackles access and reuse of research outcomes. This item is actually part of the first step of the research lifecycle. It represents the beginning of a new cycle that draws from research outcomes properly preserved and disseminated. The learning outcomes of this module are listed below.</p>
-- Assess the FAIRness of data and other research outputs
-- Draft a strategy for publishing research outputs
-- Link data and publication
-- Implement FAIR compliance strategies for monographs (how do you link data to the monograph)
-- Adopt OS-compliant publication practices (e.g., standard metadata, stable text formats, persistent identifiers, open licensing)
-- Identify(Find) and reuse existing data, codes, publications and any other kind of research outcome
+- Design an Open Science publishing strategy for the dissemination of research results
+- Identify the principles that link data and publications
+- Choose appropriate tools to assess the FAIRness of data and other research outputs
 ## Competences targeted
 
 SSH researchers should present the following competences and skills (based on Skills4EOSC Minimal Viable Skillset for researchers).
