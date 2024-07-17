@@ -32,22 +32,64 @@ template: signposting.html
 
 ## Date/Time: when it will be offered
 
-- Course will run from February 28th to March 5th. 
-- 2 Hour Q&A Slot on Monday March 4th. 
+Coming soon
 
 ## Location (Online)
 
-The training will be held online via Zoom.
-- Zoom links to be provided to registered participants closer to the date.
+The training will be held online via Zoom. - Zoom links to be provided to registered participants closer to the date.
 
 ## Training Description
 
-There are three modules in this course.The modules follow the research lifecycle. This means that you will learn about Open Science concepts and practices, Research Data Management and  FAIR principles in light of Social Sciences and Humanities specificities.
+The main goal of this training is to introduce notions of Open Science (OS), Research Data Management (RDM) and FAIR principles along with notions of training conceptualisation and delivery. The training material will take you through the steps of both the research cycle and training design. 
 
-The three modules consist of an introduction to the Open Science landscape in the SSH, a dive into the world of data, and a discussion about dissemination.
+- The training is constituted of four modules.Three of them follow the research life cycle. This means that you will learn about Open Science concepts and practices, Research Data Management and  FAIR principles in light of Social Sciences and Humanities specificities. The first module of the training is an introduction of the Open Science environment to SSH researchers.
+- The second module focuses on what we call active research. It presents elements related to different stages of active research, such as handling data, attributing licenses, etc.. 
+- The third module focuses on the preservation and dissemination of research outcomes. 
 
-The whole training has a workload of about 15 hours. There will be three webinars followed by some practical activities. Once a week you will be able to meet one of the trainers and ask questions.
+The last module of the training presents guidelines for trainers, focusing on aspects of training design.
+
 <center>![](attachments/Pasted%20image%2020240220160637.png)</center>
+
+**
+
+The last module of the training presents guidelines for trainers, focusing on aspects of training design.
+
+  
+  
+
+Target Audience
+
+People interested in becoming OS and RDM trainers of Social Sciences and Humanities Researchers
+
+  
+
+Expertise/ Skill level: Beginner
+
+  
+
+Primary Language: English
+
+  
+
+Access Cost: No
+
+  
+
+Prerequisites:
+
+No prior knowledge is required to follow the training, however see Resources and Materials to prepare beforehand
+
+  
+
+Duration
+
+This training lasts about 15 hours (3 hours for each module and 2 hours for activities).
+
+  
+
+Learning Objectives
+
+**
 ## Module 1
 
 The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.
