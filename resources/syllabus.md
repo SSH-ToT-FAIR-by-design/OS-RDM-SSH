@@ -97,7 +97,8 @@ SSH, Open Science, data, learning outcomes
 
 ## Resources and Materials
 
-Internet connection
+- [Folder with Presentations and Exercises](https://drive.google.com/drive/folders/1yP8kWeS6Gh52GJJQ4StMgvL5eJ98HVlY?usp=sharing)
+- Internet connection
 
 
 
