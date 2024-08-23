@@ -16,7 +16,7 @@ tags:
 
 # Doing research in the SSH OS Landscape
 
-### Description
+## Description
 
 This lesson focuses on the design of a training, including learning outcomes, learning path and planning of the learning experience.  
 ## Learning Outcomes
