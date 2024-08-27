@@ -23,12 +23,11 @@ The second module focuses on what we call active research. It presents elements 
 
 The learning outcomes of Module 2 are: 
 
-- Identify different types of metadata
-- Identify different open file formats 
-- Apply best practices for storing data securely and efficiently 
-- Manage sensitive data to ensure privacy and compliance
-- Apply open licenses and Data Usage rights 
-
+- Identify different types and standards of metadata
+- Select relevant open file formats
+- Apply best practices for storing data securely and efficiently
+ - Manage sensitive data to ensure privacy and compliance with relevant national or international regulations
+- Apply open licenses and Data Usage rights
 
 
 

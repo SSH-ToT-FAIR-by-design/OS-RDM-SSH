@@ -80,9 +80,9 @@ This training lasts about 15 hours (3 hours for each module and 2 hours for acti
 
 **Module 3**
 
-- LO: Design an Open Science publishing strategy for the dissemination of research results
-- LO: Identify the various practices of linking data and publication
-- LO: Choose appropriate tools to assess the FAIRness of data and other research outputs
+- Design an Open Science publishing strategy for the dissemination of research results
+- Identify the various practices of linking data and publication
+- Choose appropriate tools to assess the FAIRness of data and other research outputs
 
 **Module 4**
 

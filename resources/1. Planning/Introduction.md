@@ -21,7 +21,7 @@ tags:
 The first module of the training is an introduction of the Open Science environment to SSH researchers. This module has four learning outcomes.
 ## Learning Outcomes
 
-- Describe the current policy landscape that shapes knowledge production 
-- Identify SSH practices in Open Science
-- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
+- Describe the current policy landscape that shapes knowledge production in SSH
+- Identify Open Science practices in SSH 
+- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective
 - Describe  what the research data management requirements and standards are

@@ -25,5 +25,5 @@ The third module focuses on the evaluation of the research outcomes and their po
 The learning outcomes from Module 3 on 'Sharing and dissemination: archiving and preservation' are as follows:
 
 - Design an Open Science publishing strategy for the dissemination of research results
-- Identify the principles that link data and publications
+- Identify the various practices of linking data and publication
 - Choose appropriate tools to assess the FAIRness of data and other research outputs
