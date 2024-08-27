@@ -65,30 +65,29 @@ This training lasts about 15 hours (3 hours for each module and 2 hours for acti
 
 **Module 1**
 
-- Describe the current policy landscape that shapes knowledge production
-
-- Identify SSH practices in Open Science
-- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective.
+- Describe the current policy landscape that shapes knowledge production in SSH
+- Identify Open Science practices in SSH 
+- Recognise SSH specificities within the research workflow during knowledge production from an ethical, legal and methodological perspective
 - Describe  what the research data management requirements and standards are
 
 **Module 2**
 
-- Identify different types of metadata
-- Identify different open file formats
+- Identify different types and standards of metadata
+- Select relevant open file formats
 - Apply best practices for storing data securely and efficiently
-- Manage sensitive data to ensure privacy and compliance
+ - Manage sensitive data to ensure privacy and compliance with relevant national or international regulations
 - Apply open licenses and Data Usage rights
 
 **Module 3**
 
-- Design an Open Science publishing strategy for the dissemination of research results
-- Identify the concepts involved in the practice of linking data and publications
-- Choose appropriate tools to assess the FAIRness of data and other research outputs
+- LO: Design an Open Science publishing strategy for the dissemination of research results
+- LO: Identify the various practices of linking data and publication
+- LO: Choose appropriate tools to assess the FAIRness of data and other research outputs
 
 **Module 4**
 
-- Differentiate the three stages of backward design 
-- Write learning outcomes
+- Recognise the three stages of backward design 
+- Write learning outcomes 
 - Design a learning path
 
 ## Keywords
